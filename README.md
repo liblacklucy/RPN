@@ -1,4 +1,4 @@
-# Relationship Prompt Learning is Enough for Open-Vocabulary Semantic Segmentation
+# Relationship Prompt Learning is Sufficient for Open-Vocabulary Semantic Segmentation
 
 > **Abstract:** *Open-vocabulary semantic segmentation (OVSS) aims to segment unseen classes without pixel-level labels. Current Vision-Language Model (VLM)-based methods leverage VLM's extensive knowledge to enhance additional segmentation-specific networks, yielding competitive results, but at the cost of extensive parameter consumption. To reduce these costs, we attempt to enable VLM to directly produce the segmentation results without segmentation-specific networks. Prompt learning offers a direct and parameter-efficient approach. Therefore, we propose relationship prompt module (RPM), which generates relationship prompt that directs VLM to extract pixel-level semantic embeddings suitable for OVSS. Moreover, RPM integrates with VLM to construct relationship prompt network (RPN), achieving OVSS without segmentation-specific networks. RPN attains state-of-the-art performance with merely about 3M trainable parameters (2% of total parameters).* 
 >
