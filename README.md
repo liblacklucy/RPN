@@ -35,7 +35,7 @@
 
 Our work is closely related to the following assets that inspire our implementation. We gratefully thank the authors. 
 
- - ZegClip:  https://github.com/ZiqinZhou66/ZegCLIP/tree/main
+ - ZegClip:  https://github.com/ZiqinZhou66/ZegCLIP
  - CLIP:  https://github.com/openai/CLIP
  - Maskformer: https://bowenc0221.github.io/maskformer
  - Zegformer: https://github.com/dingjiansw101/ZegFormer
