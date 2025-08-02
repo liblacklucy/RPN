@@ -12,6 +12,9 @@ Authors: Jiahao Li, Yang Lu, Yuan Xie, Yanyun Qu*.     *Corresponding author
 > <img width="800" src="figs/overview.png">
 > </p>
 
+## News
+* **2024-08** :loudspeaker: Our work, [RPN](https://proceedings.neurips.cc/paper_files/paper/2024/file/8773cdaf02c5af3528e05f1cee816129-Paper-Conference.pdf), has been accepted by NeurIPS 2024.
+* **2024-05** :rocket: We release the code for RPN. 
 
 ## Environment:
 
