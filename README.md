@@ -2,7 +2,7 @@
 
 Authors: Jiahao Li, Yang Lu, Yuan Xie, Yanyun Qu*.     *Corresponding author
 
-[[paper]([https://arxiv.org/abs/2212.03588](https://proceedings.neurips.cc/paper_files/paper/2024/file/8773cdaf02c5af3528e05f1cee816129-Paper-Conference.pdf))]]
+[[paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/8773cdaf02c5af3528e05f1cee816129-Abstract-Conference.html)] 
 
 ---
 
