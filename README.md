@@ -44,15 +44,9 @@ Authors: Jiahao Li, Yang Lu, Yuan Xie, Yanyun Qu*.     *Corresponding author
 
 Our work is closely related to the following assets that inspire our implementation. We gratefully thank the authors. 
 
- - ZegClip:  https://github.com/ZiqinZhou66/ZegCLIP
  - CLIP:  https://github.com/openai/CLIP
- - Maskformer: https://bowenc0221.github.io/maskformer
- - Zegformer: https://github.com/dingjiansw101/ZegFormer
- - zsseg: https://github.com/MendelXu/zsseg.baseline
+ - CAT-Seg: https://github.com/cvlab-kaist/CAT-Seg
  - MaskCLIP: https://github.com/chongzhou96/MaskCLIP
- - SegViT: https://github.com/zbwxp/SegVit
- - DenseCLIP: https://github.com/raoyongming/DenseCLIP/blob/master/segmentation/denseclip
- - Visual Prompt Tuning: https://github.com/KMnP/vpt
 
 ## Citation:
 If you find this project useful, please consider citing:
